@@ -19,8 +19,8 @@ Visualization: Excel graphs, PowerPoint poster
 
 📂 Project Materials
 
-Poster (PDF): EV Infrastructure Poster
-Presentation Slides: Slides
+Poster (PDF): https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/ev+optiomization/KtbxLrjjBdKMMBfTBMBfVZDdpqthzGjWsB?projector=1&messagePartId=0.1 
+Presentation Slides: https://drive.google.com/drive/u/0/shared-with-me 
 
 📈 Results / Outcomes
 
