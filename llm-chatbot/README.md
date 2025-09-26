@@ -1,9 +1,9 @@
 🧠 LLM Chatbot for Course & Event Q&A
-🔎 Overview
 
 This project explores the design, evaluation, and implementation of a chatbot powered by large language models to answer domain-specific questions. The chatbot was tested in two settings: university course information and the Robofest event. The project compared different approaches (free/premium models, fine-tuning, RAG) and produced a working prototype.
 
 Poster 1: Course Q&A Chatbot
+
 Poster 2: Event Chatbot Prototype
 
 🛠️ My Role & Contributions
