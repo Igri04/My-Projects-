@@ -13,14 +13,15 @@ Designed and presented a poster summarizing the findings and recommendations.
 
 🚀 Technologies Used
 
-Languages/Tools: Python, MATLAB, Excel
+Languages/Tools: Python, MATLAB, Excel, RStudio
 Statistical Methods: Multivariate Analysis, Simple Exponential Smoothing (SES), Adjusted Exponential Smoothing (AES)
 Visualization: Excel graphs, PowerPoint poster
 
 📂 Project Materials
 
-Poster (PDF): https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/ev+optiomization/KtbxLrjjBdKMMBfTBMBfVZDdpqthzGjWsB?projector=1&messagePartId=0.1 
-Presentation Slides: https://drive.google.com/drive/u/0/shared-with-me 
+Poster (PDF): [https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/ev+optiomization/KtbxLrjjBdKMMBfTBMBfVZDdpqthzGjWsB?projector=1&messagePartId=0.1 ](https://docs.google.com/presentation/d/1lFZkFG4S1Ta-xe9zNMDofJP8PPm7RuWw/edit?usp=sharing&ouid=102802386624383589614&rtpof=true&sd=true) 
+
+Presentation Slides: https://drive.google.com/file/d/1AHCRmcXd4LHgFHUTwlOf9A5cu-bhnF7C/view?usp=sharing 
 
 📈 Results / Outcomes
 
@@ -34,4 +35,4 @@ Final recommendation: Prioritize charger placement in underserved states and hig
 
 View the poster (PDF link above) for the full summary.
 See the slides for a deeper dive into methods and results.
-Forecasting data and visualizations are included in the supporting files.
+
